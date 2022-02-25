@@ -10,6 +10,6 @@ Make a */scripts* folder on your computer, and make sure the Windows path is poi
 
 Take both of the files in this repo and past them into your */scripts* folder.
 
-```map.js``` has the JavaScript to run nmap and then parse the results.  The ```map``` file is used to elegantly call the map.js file: ```node map.js```.
+*map.js* has the JavaScript to run nmap and then parse the results.  The *map* file is used to elegantly call the map.js file: ```node map.js```.
 
 For more info on how these tools work, see:  youtube
