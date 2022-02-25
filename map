@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+node ~/workshops/scripts/map.js
