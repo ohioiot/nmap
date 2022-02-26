@@ -12,4 +12,4 @@ Take both of the files in this repo and past them into your */scripts* folder.
 
 *map.js* has the JavaScript to run nmap and then parse the results.  The *map* file is used to elegantly call the map.js file: ```node map.js```.
 
-For more info on how these tools work, see:  youtube
+For more info on how these tools work, see:  https://youtu.be/uQufpfmvwN8
